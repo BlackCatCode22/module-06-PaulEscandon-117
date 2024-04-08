@@ -1,0 +1,17 @@
+Zoo Population Report:
+Species: female, Name: year, Age: 4, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  hyena, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 12, Sex: old, Color:  born in fall, Weight: 0 pounds, Birth Season:  hyena, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 4, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  hyena, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 8, Sex: old, Color:  unknown birth season, Weight: 0 pounds, Birth Season:  hyena, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 6, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  lion, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 12, Sex: old, Color:  born in winter, Weight: 0 pounds, Birth Season:  lion, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 22, Sex: old, Color:  born in fall, Weight: 0 pounds, Birth Season:  lion, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 4, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  lion, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 2, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  tiger, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 4, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  tiger, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 18, Sex: old, Color:  born in fall, Weight: 0 pounds, Birth Season:  tiger, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 3, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  tiger, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 7, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  bear, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 25, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  bear, Arrival Date: 2024-04-07
+Species: female, Name: year, Age: 4, Sex: old, Color:  born in fall, Weight: 0 pounds, Birth Season:  bear, Arrival Date: 2024-04-07
+Species: male, Name: year, Age: 4, Sex: old, Color:  born in spring, Weight: 0 pounds, Birth Season:  bear, Arrival Date: 2024-04-07
